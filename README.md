@@ -27,7 +27,6 @@ This script was developed half by me and half by AI. I didn’t bother to set th
 - **Drag collections** from the sidebar into your categories.
 - **Expand/collapse** categories by clicking their header.
 - **Remove** a category by clicking the ✖ icon.
-- Collections can be moved between categories or removed from categories by dragging them out.
 
 ## Technical Details
 
