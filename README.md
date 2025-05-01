@@ -14,7 +14,6 @@ This script was developed half by me and half by AI. I didn’t bother to set th
 - **Collapse/expand** categories for better organization
 - **Remove categories** easily
 - **Persistent:** Categories are saved in your browser’s localStorage
-- **Works on:** `/collections`, `/logs`, and `/settings` pages
 
 ## Installation
 
