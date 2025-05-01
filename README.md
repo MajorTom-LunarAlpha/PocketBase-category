@@ -5,6 +5,9 @@ Organize your collections into collapsible, draggable categories for a cleaner a
 
 This script was developed half by me and half by AI. I didn’t bother to set the styles myself or fine-tune some of the mutators, so some stuff may be a bit broken.
 
+![image](https://github.com/user-attachments/assets/d8219431-78cf-4585-90f1-fd7d6108764c)
+
+
 ## Features
 
 - **Create custom categories** in the sidebar
