@@ -18,7 +18,7 @@ This script was developed half by me and half by AI. I didn’t bother to set th
 ## Installation
 
 1. Install a userscript manager like [Violentmonkey](https://violentmonkey.github.io/) or [Tampermonkey](https://www.tampermonkey.net/).
-2. Add this script to your userscript manager.
+2. [Add this script to your userscript manager](https://github.com/MajorTom-LunarAlpha/PocketBase-category/raw/refs/heads/main/PocketBase-category.user.js).
 3. The script will automatically activate on PocketBase admin URLs.
 
 ## Usage
